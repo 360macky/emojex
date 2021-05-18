@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.5'
-DESCRIPTION = 'Converter of popular culture texts to emoji'
+VERSION = '0.0.9'
+DESCRIPTION = 'Smart converter of popular culture texts to emoji'
 LONG_DESCRIPTION = 'Converter of popular culture texts such as series or movies to emoji using OpenAI GPT-3'
 
 setup(
